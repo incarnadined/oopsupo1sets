@@ -3,7 +3,7 @@ package uk.ac.cam.ss2960.sets;
 import java.util.ArrayList;
 
 public class SearchSet {
-  public class BinaryTreeNode {
+  public static class BinaryTreeNode {
     private int mValue;
     private BinaryTreeNode mLeft;
     private BinaryTreeNode mRight;
